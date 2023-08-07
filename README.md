@@ -5,7 +5,7 @@ This is to track any days spent coding and any learning progression using #100Da
 ### May 29, 2022 to June 9, 2022
 Days Completed: 12
 
-## [Round 2](https://github.com/jasminepvo/100devs/journal.md)
+## [Round 2](https://github.com/jasminepvo/100devs/blob/main/journal.md?plain=1)
 ### July 15, 2022 - Nov 1, 2022
 Days Completed: 108
 
