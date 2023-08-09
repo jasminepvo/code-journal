@@ -20,11 +20,11 @@
 #### Todays's Progress
 
 - Started working on The 777 Beauty Co Website again and was able to research designs + build out a couple sections:
-- Nav bar
-- About
-- Services
-- Testimonials
-- Footer
+- Nav bar (30 min)
+- About (30 min)
+- Services (1 hour)
+- Testimonials (1.5 hr)
+- Footer (10 min)
 
 #### Thoughts
 
@@ -53,12 +53,15 @@
 
 #### Todays's Progress
 
-- Published the site and updated the site description - https://the777beautyco.framer.website/
-- 
+- Published the site and updated the site description - https://the777beautyco.framer.website/ (10 min)
+- Added the footer with social media [links](https://www.framer.community/c/resources/social-media-component) (1.5 hr)
+- Add [scrolling links](https://www.framer.com/learn/smooth-scrolling-links-with-scroll-targets/) using parallax to the footer (30 min)
+- Add more content for services + finishing touches / cleanup to layout (2 hr)
 
 #### Thoughts
 
-- 
+- Getting pretty fast at understanding the rows / columns to make layouts! I'm done though. I think it looks amazing and I'm so freaking proud of myself! I can see myself easily spinning out these websites for $$$ and having fun doing so with Framer. I'll go back and add effects possibly but it's ready to send off as the first draft. Overall ~8hrs
+- Oops, its not mobile optimized yet.
 
 ---
 
