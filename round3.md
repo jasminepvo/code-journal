@@ -65,6 +65,32 @@
 
 ---
 
+### Day 4: August 10, 2023 - Thursday
+
+#### Todays's Progress
+
+- Watched [Framer Youtube tutorial](https://www.youtube.com/watch?v=ebtzVGVVHhA) for a better understanding on layouts (frame vs stack vs grid, relative vs fixed vs fill vs fit)
+- Responsive tablet view (1.5hr)
+- Mobile view (1hr)
+- Nav Menu open + close (3hr)
+- Updated link redirects throughout (10min)
+
+#### Thoughts
+
+- Frame is free positioning, stack is flex, grid is grid. If using grid and contents flow out the page, you can turn the page into a stack. Fixed for positioning anywhere. Relative takes up % of parent container. Fill will fill up a fraction of the page. Fit is auto-sizing contents to fit inside parent container. This helped me with my tablet / mobile view.
+- Responsive took me a bit to learn but I got it down now
+- Tablet had to change the stack for About section and Footer
+- UGHHHHH spending an ungodly amount of time trying to get the nav menu working. At first, it wasn't appearing. Then it worked but I didn't like how it overlapped the logo. Now the open/close works but links are invisible
+- <img width="529" alt="Screenshot 2023-08-10 at 1 07 45 PM" src="https://github.com/jasminepvo/code-journal/assets/99847030/03b17e72-e8af-423b-b4ed-0bb8fe4dd890">
+- IT HAD TO DO WITH THE PARENT CONTAINER BEING A FIXED HEIGHT AHHHHH. That was a painful 3 hours of my life.
+- https://the777beautyco.framer.website/ IS DONE THOUGH YAYYYY!!! 🥳
+
+![the777beautyco framer website_](https://github.com/jasminepvo/code-journal/assets/99847030/fbe27ae1-192a-404f-9113-d5cd3625d3b1)
+
+
+---
+
+
 <!---
 
 ### Day 1: August 7, 2023 - Monday
