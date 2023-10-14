@@ -90,6 +90,17 @@
 
 ---
 
+### Day 8: October 14, 2023 - Saturday
+
+#### Todays's Progress
+
+- Built phoummavongchiropractic.com
+
+#### Thoughts
+
+- Finished with the website, It's score 99-100. Trying to decide on a design for my business site now.
+
+---
 
 <!---
 
