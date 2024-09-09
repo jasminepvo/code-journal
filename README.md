@@ -10,5 +10,9 @@ Days Completed: 12
 Days Completed: 108
 
 ## [Round 3](https://github.com/jasminepvo/code-journal/blob/main/round3.md)
-### August 7, 2023 -
-Days Completed: 
+### August 7, 2023 - August 10, 2023
+Days Completed: 4
+
+## [Round 4](https://github.com/jasminepvo/code-journal/blob/main/round4.md)
+### September 9, 2023 - TBD
+Days Completed: TBD
