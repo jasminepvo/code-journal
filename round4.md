@@ -3,6 +3,8 @@
 #### Todays's Progress
 
 ✅ Completed 2 codewars problem
+✅ CSSBattle
+✅ UI for 75Hard Tracker
 
 #### Thoughts
 
