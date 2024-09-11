@@ -39,8 +39,24 @@
   return 0;
 }
 ```
+---
 
+### Day 3: September 11, 2024 - Wednesday
 
+#### Todays's Progress
+
+✅ Daily codewars
+
+#### Thoughts
+
+- Good ole palindrome question :)
+- <img width="1712" alt="Screenshot 2024-09-11 at 4 46 51 PM" src="https://github.com/user-attachments/assets/47efe5d5-e699-4087-93eb-21e99a4195cd">
+- Ahh after seeing other solutions, I realized this would have been better, or using a ternary operator
+- ```
+  function isPalindrome(x) {
+    return x.toLowerCase().split('').reverse().join('') == x.toLowerCase()
+  } 
+```
 
 ---
 
