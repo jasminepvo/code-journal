@@ -22,7 +22,8 @@
 
 #### Todays's Progress
 
-✅ Daily CSSBattle
+✅ Daily CSSBattle <br>
+✅ Daily codewars
 
 #### Thoughts
 
