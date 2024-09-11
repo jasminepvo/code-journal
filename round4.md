@@ -18,6 +18,31 @@
 
 ---
 
+### Day 2: September 10, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ Daily CSSBattle
+
+#### Thoughts
+
+- First time getting 100% right!!! Such a little win but made me so happy.
+- <img width="1264" alt="Screenshot 2024-09-10 at 11 56 03 PM" src="https://github.com/user-attachments/assets/8cad5662-d250-41ea-9617-4bf11116160c">
+- First attempt <img width="1212" alt="Screenshot 2024-09-11 at 12 13 41 AM" src="https://github.com/user-attachments/assets/a4fd2d7d-5f17-4659-9495-c6d5514c4629">
+- But then I realized I could clean it up and refactored
+```
+  function finalGrade (exam, projects) {
+  if(exam > 90 || projects > 10) return 100;
+  if(exam > 75 & projects >= 5) return 90;
+  if(exam > 50 & projects >= 2) return 75;
+  return 0;
+}
+```
+
+
+
+---
+
 <!---
 
 ### Day 1: September 9, 2024 - Monday
