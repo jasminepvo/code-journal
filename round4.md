@@ -52,11 +52,31 @@
 - Good ole palindrome question :)
 - <img width="1712" alt="Screenshot 2024-09-11 at 4 46 51 PM" src="https://github.com/user-attachments/assets/47efe5d5-e699-4087-93eb-21e99a4195cd">
 - Ahh after seeing other solutions, I realized this would have been better, or using a ternary operator
-- ```
+-
+```
   function isPalindrome(x) {
     return x.toLowerCase().split('').reverse().join('') == x.toLowerCase()
   } 
 ```
+
+---
+
+### Day 4: September 12, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ Daily CSSBattle
+
+
+#### Thoughts
+
+- Here is my solution for today! However, it made me think it also would have been possible to reflect the top / bottom div on the x axis as well.
+- <img width="1679" alt="Screenshot 2024-09-12 at 2 50 47 PM" src="https://github.com/user-attachments/assets/aa0282ab-bd29-4406-897e-e1a4050755ec">
+- After diving deeper into CSS reflections, I learned it's possible with 2 different ways
+  - 1. transform: scaleX(-1) (SOURCE:https://css-tricks.com/snippets/css/flip-an-image/)
+  - 2. -webkit-box-reflect: <direction> <offset> (SOURCE:https://webkit.org/blog/182/css-reflections/)
+   
+- Although these CSS battles have primarily been shapes sized/ordered differently, it's definitely made me realize there are some cool CSS properties that I'm not as familiar with! It's good to hone in on my skills.
 
 ---
 
