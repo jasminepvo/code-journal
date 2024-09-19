@@ -80,6 +80,43 @@
 
 ---
 
+### Day 5: September 19, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ Daily Codewars
+
+#### Thoughts
+
+- Took a few days off because my family drove in town (26hrs) so I wanted to cherish the moments with them.
+- Picking back up as usual though! Today's codewars I could see the refactored solution initially but it still always helps me to write pseudocode first.
+
+
+Initial:
+```
+function sumStr(a,b) {
+  //convert string to num
+  let num1 = a === '' ? 0 : Number(a);
+  let num2 = b === '' ? 0 : Number(b);
+
+  //sum a and b
+  let sum = num1 + num2;
+
+  //return sum as string
+  return sum.toString();
+}
+```
+Refactored:
+```
+function sumStr(a,b) {
+  return String(Number(a) + Number(b));
+}
+```
+
+---
+
+
+
 <!---
 
 ### Day 1: September 9, 2024 - Monday
