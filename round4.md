@@ -84,7 +84,8 @@
 
 #### Todays's Progress
 
-✅ Daily Codewars
+✅ Daily Codewars <br>
+✅ Daily CSSBattle
 
 #### Thoughts
 
@@ -112,6 +113,9 @@ function sumStr(a,b) {
   return String(Number(a) + Number(b));
 }
 ```
+
+- My thoughts on this CSSBattle were to center 2 divs with black background. The first div would have a top left border radius of 100% to create the circle arch. The second div would have a class that rotates it 180deg. Repeat the same inside the existing div but with a width/height that is half of the outer divs and yellow background.
+- <img width="1717" alt="Screenshot 2024-09-19 at 1 23 03 PM" src="https://github.com/user-attachments/assets/a0860ea5-96b7-4168-9017-74ee3adc576f">
 
 ---
 
