@@ -124,7 +124,10 @@ function sumStr(a,b) {
 #### Todays's Progress
 
 ✅ Daily Codewars <br>
-✅ Daily CSSBattle
+✅ Daily CSSBattle <br>
+✅ Signed up for Women In Tech event <br>
+✅ 100devs huddle
+
 
 #### Thoughts
 
@@ -145,6 +148,12 @@ function howMuchILoveYou(petals) {
   return phrases[(petals-1) % 6]
 }
 ```
+- WOW ASTRO RELEASED ECOMMERCE STOREFRONT - https://github.com/withastro/storefront/
+- THIS IS INCREDIBLE, I am saving to fork and play around with later
+
+- Also, just found out theres an annual SheTo summit for women in tech looking to advance their career in leadership. I love this. I am manifesting that I will attend 2025. - https://www.sheto.org/summit
+- Signed up for this event.  - https://women-in-tech.thisdotmedia.com/ 
+
 
 ---
 
