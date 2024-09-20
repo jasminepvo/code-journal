@@ -119,7 +119,34 @@ function sumStr(a,b) {
 
 ---
 
+### Day 6: September 20, 2024 - Friday
 
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle
+
+#### Thoughts
+
+- Today's CSSBattle only took me ~3 min to get 100% match and one of my higher scores!!! The first time I did one it took me over an hour and I had to settle for 98% match 😭 Either I'm getting quicker or they're getting easier. Also remembered <body> tag is implicitly present in every html document so it's not necessary to add (especially since I'm trying to use the least amount of characters here) but obviously good practice to ensure proper structure and readability.
+-  <img width="1719" alt="Screenshot 2024-09-20 at 1 28 00 PM" src="https://github.com/user-attachments/assets/dd290a46-981a-470b-96cc-69b97ca3c97f">
+- Codewars problem was a cute one. I used the modular operator to determine which phrase corresponds to the last petal. My logic was for n and nx7 "i love you". for n and n+6 "a little", for n and n+5 "a lot" etc. or using the remainder of n*i. Since the phrases repeat every 6 petals, I can map the remainder of n % 6 to the appropriate phrase.
+```
+function howMuchILoveYou(petals) {
+  const phrases = [
+    "I love you",
+    "a little",
+    "a lot",
+    "passionately",
+    "madly",
+    "not at all"
+  ];
+  
+  return phrases[(petals-1) % 6]
+}
+```
+
+---
 
 <!---
 
