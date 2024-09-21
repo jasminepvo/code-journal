@@ -157,6 +157,35 @@ function howMuchILoveYou(petals) {
 
 ---
 
+### Day 7: September 21, 2024 - Saturday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ Signed up for Women Tech career fair <br>
+✅ Started Total Typescript
+
+
+#### Thoughts
+
+- Today's CSSBattle was tricky. I knew it was a checkerboard pattern so I started off with the method to make nth elements have the transparent background but it is tedious.
+- <img width="1717" alt="Screenshot 2024-09-21 at 4 06 50 PM" src="https://github.com/user-attachments/assets/cbc90878-e4ab-469a-947b-85ddcd8f55a6">
+- Hmm attempted to use `repeating-linear-gradient` after seeing [this](https://www.30secondsofcode.org/css/s/10-css-background-patterns/) but it ended up being worse lol
+- <img width="1715" alt="Screenshot 2024-09-21 at 4 42 46 PM" src="https://github.com/user-attachments/assets/c77c7290-8ac9-47f7-b8f2-5eed0692ee53">
+
+- Codewars was easy today.
+```
+function reverseList(list) {
+  return list.reverse();
+}
+```
+- 
+
+
+---
+
+
 <!---
 
 ### Day 1: September 9, 2024 - Monday
