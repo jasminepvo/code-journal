@@ -180,10 +180,76 @@ function reverseList(list) {
   return list.reverse();
 }
 ```
-- 
-
 
 ---
+
+### Day 8: September 23, 2024 - Monday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ Total Typescript
+
+
+#### Thoughts
+
+- Today's CSSBattle was pretty easy, division sign haha. 2 circles and a rectangle. I probably could get more points if I used the `-webkit-box-reflect` across the x axis
+- <img width="1715" alt="Screenshot 2024-09-23 at 1 51 55 PM" src="https://github.com/user-attachments/assets/4582be40-1a99-4747-8669-9840b0530d62">
+- Codewars was a simple math equation, with the challenge to write it in one line of code. Here is what I submitted:
+```
+const findDifference = (a, b) => Math.abs((a[0]*a[1]*a[2])-(b[0]*b[1]*b[2]));
+```
+- I found these other solutions to be clever as well
+```
+function find_difference([a,b,c], [d,e,f]) {
+  return Math.abs(a*b*c-d*e*f)
+}
+```
+```
+function find_difference(a, b) {
+  return Math.abs(a.reduce((previous, current) => previous * current) - b.reduce((previous, current) => previous * current));
+}
+```
+- Beginner's TypeScript: Lesson 1 - The Implicit "Any" Type error
+  - Typescript requires you to assign a "type" to your parameters. If it's a number, string, boolean etc. This makes sense and I see the extra layer of readability and protection it serves.
+  ```
+  export const addTwoNumbers = (a: number, b: number) => {
+    return a + b;
+  };
+  ```
+  - When strict mode is enabled, you'll get the implicitly has 'any' type error whenever you leave type annotations out.
+ 
+- Beginner's TypeScript: Lesson 2 - Working with Object Params
+  - Here, the params is an object so we must assign each key a type
+  ```
+  export const addTwoNumbers = (params: { first: number; second: number }) => {
+    return params.first + params.second;
+  };
+  ```
+  - Another solution, use named alias type
+  ```
+  type AddTwoNumbersArgs = {
+    first: number;
+    second: number;
+  };
+
+  export const addTwoNumbers = (params: AddTwoNumbersArgs) => {
+    return params.first + params.second;
+  };
+  - The other way is to use interface, however preferred method is the named alias type due to type can repesent anything (string, number, or boolean) AND less verbose error message
+
+  ```
+- Beginner's TypeScript: Lesson 3 - Set Properties as Optional
+  - Adding a ? before the colon tells TypeScript that the property isn't required in order for the function to work. 
+  - ```export const getName = (params: { first: string; last?: string }) => {```
+- Beginner's TypeScript: Lesson 4 - Optional Parameters
+  - Caveats: You can't put the optional argument before the required one. 
+- Beginner's TypeScript: Lesson 5 - Assigning Types to Variables
+  - By adding : User to defaultUser, we're telling TypeScript that we want it to conform to our User interface.
+  - ```const defaultUser: User = {}```
+  - ```let a: number = 1```
+  - useful for making sure variables match a certain type
 
 
 <!---
