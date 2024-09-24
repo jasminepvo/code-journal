@@ -251,6 +251,170 @@ function find_difference(a, b) {
   - ```let a: number = 1```
   - useful for making sure variables match a certain type
 
+### Day 9: September 24, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ Total Typescript
+
+
+#### Thoughts
+
+- Today's CSSBattle was interesting. It says 100% match but I can clearly see the faint line of yellow for the difference. I probably could get more points if I used the `-webkit-box-reflect` across the x axis / less char.
+- <img width="1282" alt="Screenshot 2024-09-24 at 3 18 08 PM" src="https://github.com/user-attachments/assets/845ab9cb-4fa9-4d0a-93a1-e73da10fc6dc">
+
+- Today's Codewars was a practical use of objects
+```
+function greet(language) {
+	// Use an object to map languages to greetings
+  const greetings = {
+    english: "Welcome",
+    czech: "Vitejte",
+    danish: "Velkomst",
+    dutch: "Welkom",
+    estonian: "Tere tulemast",
+    finnish: "Tervetuloa",
+    flemish: "Welgekomen",
+    french: "Bienvenue",
+    german: "Willkommen",
+    irish: "Failte",
+    italian: "Benvenuto",
+    latvian: "Gaidits",
+    lithuanian: "Laukiamas",
+    polish: "Witamy",
+    spanish: "Bienvenido",
+    swedish: "Valkommen",
+    welsh: "Croeso"
+  };
+
+  // Return the greeting if found, otherwise return "Welcome" as the default
+  return greetings[language] || "Welcome";
+  }
+```
+- Beginner's TypeScript: Lesson 6 - Constraining Value Types
+  - This is a union type
+  ```
+  role: "admin" | "user" | "super-admin";
+  ```
+  - Anything can be added to a union type. For example, we can make a new SuperAdmin type and add it to the role:
+ ```
+  type SuperAdmin = 'super-admin'
+  
+  interface User {
+    // ...other stuff
+    role: "admin" | "user" | SuperAdmin;
+  }
+  ```
+ 
+- Beginner's TypeScript: Lesson 7 - Working With Arrays
+  - First syntax is to add square brackets, which I am more familiar with
+  ```
+  interface User {
+    id: number;
+    firstName: string;
+    lastName: string;
+    role: "admin" | "user" | "super-admin";
+    posts: Post[];           //add square brackets
+  }
+
+  interface Post {
+    id: number;
+    title: string;
+  }
+
+  export const defaultUser: User = {
+    id: 1,
+    firstName: "Jasmine",
+    lastName: "Vo",
+    role: "admin",
+    posts: [
+      {
+        id: 1,
+        title: "How I eat so much meat",
+      },
+      {
+        id: 2,
+        title: "Why I don't eat more vegetables",
+      },
+    ],
+  };
+
+  ```
+  - Second syntax is to use a generic type
+  ```
+  posts: Array<Post>
+  ```
+  - Both resolve into exactly the same thing. He mentions teaching generic type because the syntax is similar to promises, especially with maps, sets, records, things like that. But prefers the bracket syntax. Which I do too.
+- Beginner's TypeScript: Lesson 8 - Function Return Type Annotations
+  - Problem: how do we annotate the makeUser function to make sure it always returns a User?
+  - Solution: define a User type and make sure the makeUser function explicitly returns an object of that type.
+  ```
+  import { expect, it } from 'vitest';
+  
+  interface User {
+    id: number;
+    firstName: string;
+    lastName: string;
+    role: 'admin' | 'user' | 'super-admin';
+    posts: Post[];
+  }
+  
+  interface Post {
+    id: number;
+    title: string;
+  }
+  
+  /**
+   * How do we ensure that makeUser ALWAYS
+   * returns a user?
+   */
+  const makeUser = (): User => {
+    return {
+      id: 1,
+      firstName: 'Jasmine',
+      lastName: 'Vo',
+      role: 'admin',
+      posts: [
+        {
+          id: 1,
+          title: 'Title 1',
+        },
+      ],
+    };
+  };
+  
+  it('Should return a valid user', () => {
+    const user = makeUser();
+  
+    expect(user.id).toBeTypeOf('number');
+    expect(user.firstName).toBeTypeOf('string');
+    expect(user.lastName).toBeTypeOf('string');
+    expect(user.role).to.be.oneOf(['super-admin', 'admin', 'user']);
+  
+    expect(user.posts[0].id).toBeTypeOf('number');
+    expect(user.posts[0].title).toBeTypeOf('string');
+  });
+  ```
+  
+- Beginner's TypeScript: Lesson 9 - Typing Promises and Async Requests
+  - This is the syntax for promises that will fix the Typescript error
+  - ```export const fetchLukeSkywalker = async (): Promise<LukeSkywalker> => {```
+  - But this is the more common syntax, using type cast where data represents any since we don't know what will be returned
+ 
+  ```
+  export const fetchLukeSkywalker = async () => {
+  const data = await fetch("<https://swapi.dev/api/people/1>").then((res) => {
+    return res.json();
+  });
+
+  // cast the data to LukeSkywalker
+    return data as LukeSkywalker;
+  };
+  ```
+ 
+- Honestly not sure how I feel about this tutorial by TotalTypescript. It feels a bit backwards to me and although I am understanding since I've worked with Typescript a bit before, I don't feel like a true beginner would absorb this knowledge in a way that would help them gain a deep understanding. Just my personal opinion. 
 
 <!---
 
