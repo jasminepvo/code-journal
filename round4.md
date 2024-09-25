@@ -416,6 +416,30 @@ function greet(language) {
  
 - Honestly not sure how I feel about this tutorial by TotalTypescript. It feels a bit backwards to me and although I am understanding since I've worked with Typescript a bit before, I don't feel like a true beginner would absorb this knowledge in a way that would help them gain a deep understanding. Just my personal opinion. 
 
+---
+
+### Day 10: September 25, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ Total Typescript
+
+
+#### Thoughts
+
+- Today's CSSBattle was the opposite. It says 99.6% match but I can't see the difference 🤔
+- <img width="1262" alt="Screenshot 2024-09-25 at 6 03 41 PM" src="https://github.com/user-attachments/assets/2748aeeb-7b57-4650-9cf6-64f163ead240">
+
+- Today's Codewars was awesome, I love that my solution was top best practices / clever today! Very practical use too
+```
+psuedocode:
+// search the array of strings and store the string first in alphabetic order
+// loop through the string and add *** between each of its letters, return this
+solution:
+const twoSort = (s) => s.sort()[0].split('').join('***');  
+```
 <!---
 
 ### Day 1: September 9, 2024 - Monday
