@@ -440,8 +440,48 @@ psuedocode:
 solution:
 const twoSort = (s) => s.sort()[0].split('').join('***');  
 ```
-<!---
 
+### Day 11: September 26, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ Coffee Chat with Yana Zaynullina <br>
+✅ Work on portfolio
+
+
+
+#### Thoughts
+
+- Today's CSSBattle was sooo frustrating. I couldn't get the half circle to match! This is definitely the worst I've done
+- <img width="861" alt="Screenshot 2024-09-26 at 11 48 01 AM" src="https://github.com/user-attachments/assets/604b6de2-cf5d-43cd-9ea3-d06232a799d5">
+- Attempted again, this time adding a window for the half circle with overflow hidden. Still only 99.9%
+<img width="1402" alt="Screenshot 2024-09-26 at 3 12 14 PM" src="https://github.com/user-attachments/assets/65ae3dfc-613c-44fd-ae16-2a033159a98c">
+
+- Today's Codewars was simple, I definitely had to refactor after
+```
+function peopleWithAgeDrink(age) {
+    if (age<14)
+      return "drink toddy";
+    else if (age>=14 & old<18)
+      return "drink coke";
+    else if (age>=18 & old<21)
+      return "drink beer";
+    else 
+      return "drink whisky";
+};
+```
+
+```
+const peopleWithAgeDrink = (age) =>
+  age < 14 ? "drink toddy" :
+  age < 18 ? "drink coke" :
+  age < 21 ? "drink beer" : "drink whisky"
+```
+- Watched Ellie's portfolio roast and that definitely inspired / reminded me to work on my portfolio again. So today I finished my hub. The masonry layout is ready to take content from Storyblok CMS which was cool and easy to implement with Astro. Also typed up a blog draft on the portfolio layout design. 
+
+<!---
 ### Day 1: September 9, 2024 - Monday
 
 #### Todays's Progress
