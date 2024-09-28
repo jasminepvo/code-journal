@@ -450,8 +450,6 @@ const twoSort = (s) => s.sort()[0].split('').join('***');
 ✅ Coffee Chat with Yana Zaynullina <br>
 ✅ Work on portfolio
 
-
-
 #### Thoughts
 
 - Today's CSSBattle was sooo frustrating. I couldn't get the half circle to match! This is definitely the worst I've done
@@ -480,6 +478,34 @@ const peopleWithAgeDrink = (age) =>
   age < 21 ? "drink beer" : "drink whisky"
 ```
 - Watched Ellie's portfolio roast and that definitely inspired / reminded me to work on my portfolio again. So today I finished my hub. The masonry layout is ready to take content from Storyblok CMS which was cool and easy to implement with Astro. Also typed up a blog draft on the portfolio layout design. 
+
+---
+
+### Day 12: September 27, 2024 - Friday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+
+#### Thoughts
+
+- Today's CSS Battle was just overlapping squares with borders and backgrounds
+-  <img width="1390" alt="Screenshot 2024-09-27 at 8 14 38 PM" src="https://github.com/user-attachments/assets/01d8d496-2d7a-4dbe-88df-c8b597e30c55">
+- Codewars today
+```
+function findMultiples(integer, limit) {
+  let multiples = [];
+
+  for (let i = integer; i <= limit; i += integer) {
+    multiples.push(i); 
+  }
+
+  return multiples; 
+}
+```
+
+---
 
 <!---
 ### Day 1: September 9, 2024 - Monday
