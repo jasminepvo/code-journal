@@ -506,13 +506,27 @@ function findMultiples(integer, limit) {
 ```
 
 ---
+### Day 13: September 28, 2024 - Saturday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Worked on my portfolio projects page <br>
+
+#### Thoughts
+
+- I was able to get a pretty dry solution today! I used replace() method to replace all characters in a string with an empty string. The characters I replaced were vowels so I used regex character set to match all the vowels followed by the g which means global to match all instances of the char even if there is a repeat.
+``` const shortcut = (string) => string.replace(/[aeiou]/g, '')```
+
+---
 
 <!---
 ### Day 1: September 9, 2024 - Monday
 
 #### Todays's Progress
 
-✅ 
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
 
 #### Thoughts
 
