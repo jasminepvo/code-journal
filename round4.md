@@ -555,7 +555,7 @@ function findMultiples(integer, limit) {
 #### Todays's Progress
 
 ✅ Daily Codewars <br>
-✅ Daily CSSBattle <br>
+✅ Worked on my portfolio projects page <br>
 
 #### Thoughts
 
