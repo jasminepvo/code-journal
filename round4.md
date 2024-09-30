@@ -564,6 +564,31 @@ function findMultiples(integer, limit) {
 
 ---
 
+### Day 15: September 30, 2024 - Monday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ Worked on my portfolio projects page <br>
+
+#### Thoughts
+
+- Today's CSSBattle I learned how to create a triangle with CSS! Pretty cool stuff. Since I needed a right triangle with the diagonal running from the bottom left to top right, the trick was to make the border left contains the whiteish color, while the border bottom contains the yellow color. I estimated the margin would be 40px, so 200px - (40px\*2 sides) = 120px to set the border width.
+<img width="1539" alt="Screenshot 2024-09-30 at 4 07 51 PM" src="https://github.com/user-attachments/assets/bc966704-5275-4b1a-8658-d459073e5b3f">
+
+- Todays Codewars was weird, I didn't realize American floor systems were like this? All the apartments I've been in have been normal where first floor is the first floor and so forth. Anyway this is how I solved it and made the most sense to me. The dry solutions are a bit hard to read for this one imo!
+
+```
+function getRealFloor(n) {
+  if (n <=0) return n;
+  if (n >=13) return n-2;
+  return n-1;
+}
+```
+
+---
+
 <!---
 ### Day 1: September 9, 2024 - Monday
 
