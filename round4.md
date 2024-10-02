@@ -597,6 +597,7 @@ function getRealFloor(n) {
 ✅ Daily CSSBattle <br>
 ✅ Registered for Hacktoberfest <br>
 ✅ Worked on portfolio <br>
+✅ Coffee chat with Marilyn
 
 #### Thoughts
 
@@ -620,8 +621,35 @@ function getRealFloor(n) {
 - Also, finished my projects page on my portfolio! 
 ---
 
+### Day 17: October 2, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ Coffee chat with mentee <br>
+✅ Posted on LinkedIn <br>
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ Worked on Hacktoberfest issue <br>
+✅ Worked on portfolio <br>
+
+#### Thoughts
+
+- Mentee call went well. She's made so much progress in a short week, also she was so excited this week to show off what she made which made me happy to see considering she said nothing excited her in the beginning! Went over time a bit but it's okay, we're both learning. Set an agenda for the next 2 meets!
+- Codewars was a very easy if/else statement
+- CSSBattle TIL how to create a polygon using clip path!!! Not perfect but I'm happy I learned something new :)
+<img width="1515" alt="Screenshot 2024-10-02 at 1 56 14 PM" src="https://github.com/user-attachments/assets/813fcc6d-e1ed-4fe8-bdc4-68c05559dbe9">
+- Hacktoberfest
+  - Got assigned an issue from this OS project, I love working on UI - https://github.com/devhub-ai/devhub/issues/34
+- Portfolio
+  - Somehow I got disconnected from Github so I spent some time reconnecting.
+  - Hmm some reason my ssh key was removed? I added a new ssh key and successfully reconnected yay, pushed my changes!
+  - Updated my README.md, I love making these. Documentation is so fun to me 😅
+
+---
+
 <!---
-### Day 1: September 9, 2024 - Monday
+
+### Day 1: October 9, 2024 - Monday
 
 #### Todays's Progress
 
