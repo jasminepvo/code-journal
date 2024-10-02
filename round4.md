@@ -589,6 +589,37 @@ function getRealFloor(n) {
 
 ---
 
+### Day 16: October 1, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ Registered for Hacktoberfest <br>
+✅ Worked on portfolio <br>
+
+#### Thoughts
+
+- CSSBattle definitely took me some time to figure out. I learned how to break the circle up into quarters using border-color transparency, then using a radius to create the hollowed circled / arch
+```
+    border-radius: 50%;
+    width: 240px;
+    height: 240px;
+    box-sizing: border-box;
+    border-width: 60px;
+    border-style: solid;
+    border-color: #E25C57 transparent transparent transparent;
+    transform: rotate(45deg);
+```
+- The part I struggled with getting pixel perfect was the positioning of the second circle arch. I thought I could just rotate it from the first positioning but that turned out trickier than expected
+- Nevertheless this one was fun and I learned something new!
+-  <img width="1527" alt="Screenshot 2024-10-01 at 3 28 50 PM" src="https://github.com/user-attachments/assets/92932e77-77c9-456a-a9c9-bdc38327c746">
+- Codewars: originally would have approached this thinking to store the first name before the " " into an array, and push the last name into the array.. and then return last name first name as a string. But I knew there was a simpler and efficent way to approach this using string methods like reverse, split, join. Pretty cool these came back from muscle memory considering I haven't used them in awhile!
+- Dry solution: `const nameShuffler = (str) => str.split(' ').reverse().join(' ');`
+- I joined Hacktoberfest! Super excited to contribute to open source this month. 
+- Also, finished my projects page on my portfolio! 
+---
+
 <!---
 ### Day 1: September 9, 2024 - Monday
 
