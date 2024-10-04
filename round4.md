@@ -631,6 +631,7 @@ function getRealFloor(n) {
 ✅ Daily CSSBattle <br>
 ✅ Worked on Hacktoberfest issue <br>
 ✅ Worked on portfolio <br>
+✅ Huntober <br>
 
 #### Thoughts
 
@@ -647,6 +648,37 @@ function getRealFloor(n) {
 
 ---
 
+### Day 18: October 3, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ Daily Codewars <br>
+✅ Daily CSSBattle <br>
+✅ ViteConf <br>
+✅ Worked on portfolio <br>
+✅ ANKI <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- DailyCSS Battle today was hard to match this perfect hollow oval shape, only got 99%
+- But TIL how to make an oval, W3schools always saves my life - https://www.w3schools.com/howto/howto_css_shapes.asp
+- <img width="1532" alt="Screenshot 2024-10-03 at 12 33 10 PM" src="https://github.com/user-attachments/assets/2c13ec89-c958-4368-b155-554530867a65">
+- ViteConf was cool, lots of interesting talks. I'll be honest some made no sense to be because it was like hearing a foreign language, but very cool to see nonetheless. Vite has grown so popular now compared to when I first used it 2 years ago and fell in love with how fast, easy and amazing DX it was. I remember making a LinkedIn post about how everyone should stop using cra and soley use Vite. I LOVEEE that Astro uses Vite.
+- <img width="1456" alt="Screenshot 2024-10-03 at 12 34 09 PM" src="https://github.com/user-attachments/assets/bf243b04-e56c-4e83-aa84-2ee0b5d98831">
+- My favorite talk of the day.
+  - Wow I love how easy whiteboard guy makes everything look. He created a document editor, search function and added AI (search w llm) all within 20 min
+  - I need to look over the vector search logic again
+  - https://github.com/bholmesdev/local-first-vite-conf-2024
+  - You can put sql and ai in the browser
+  - Learned about gemma :o  
+- <img width="1475" alt="Screenshot 2024-10-03 at 2 51 47 PM" src="https://github.com/user-attachments/assets/e47204d3-f93f-4474-b58b-12c5c5555143">
+- Portfolio is making progress...
+  - Home/about page now has a hero w an image annd intro that took me way too long to write haha
+  - 
+
+---
+
 <!---
 
 ### Day 1: October 9, 2024 - Monday
@@ -659,6 +691,8 @@ function getRealFloor(n) {
 #### Thoughts
 
 -
+
+
 
 ---
 
