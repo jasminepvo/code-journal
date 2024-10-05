@@ -675,9 +675,19 @@ function getRealFloor(n) {
 - <img width="1475" alt="Screenshot 2024-10-03 at 2 51 47 PM" src="https://github.com/user-attachments/assets/e47204d3-f93f-4474-b58b-12c5c5555143">
 - Portfolio is making progress...
   - Home/about page now has a hero w an image annd intro that took me way too long to write haha
-  - 
 
 ---
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Recruiter call <br>
+✅ Coffee Chat w Tony <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Call went so good! Catching up with Tony was amazing. Huntober was great as always. It's been a long day but fruitful day :)
 
 <!---
 
