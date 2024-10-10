@@ -678,6 +678,8 @@ function getRealFloor(n) {
 
 ---
 
+### Day 19: October 4, 2024 - Friday
+
 #### Todays's Progress
 
 ✅ ANKI <br>
@@ -689,14 +691,71 @@ function getRealFloor(n) {
 
 - Call went so good! Catching up with Tony was amazing. Huntober was great as always. It's been a long day but fruitful day :)
 
+### Day 20: October 9, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ Coderbyte <br>
+✅ Portfolio - about page <br>
+✅ ANKI <br>
+
+#### Thoughts
+
+- Took a few days off to spend with family visiting from out of town. It was a nice break! 
+- Practiced a coderbyte problem, talking out loud as if it was a live whiteboard interview. This is the first time I've ever done this so def a new experience to get comfortable with. I felt it went well. Initially I blanked LOL but writing comments, re-reading everything, then writing the code and re-reading the code after really helped. Used P.R.E.P!
+- I even deleted everything and wrote it again. But I am so mad at myself bc when I wrote it again, I had the wrong syntax and added a = when I shouldnt have so the code didnt run and I got a 0. Ahh live and you learn, now I will be extra extra cautious
+```
+import React, { useState } from 'react';
+import { createRoot } from 'react-dom/client';
+
+function Toggle() {
+  // initialize the state, isOn will be true, setIsOn 
+  // is the function used to udpate the state
+  const [isOn, setIsOn] = useState(true);
+
+  // create a function called handleClick that is going 
+  // to use the setIsOn function that updates the state
+  // to toggle from prevstate (false) to not prev state (true)
+  function handleClick() = {
+    setIsOn(prevState => !prevState);
+  }
+  
+  // then we use the function to conditionally render the 
+  // button text based on the state 
+  // isOn ? "ON" : "OFF"
+  // so if prev state of isOn = ON, then !prev state = OFF
+
+  // attach an event listener onClick to the button which 
+  // triggers the handleClick function when the button is clicked
+  return (
+    <button onClick={handleClick}>
+      {isOn ? "ON" : "OFF"}
+    </button>
+  );
+}
+
+const container = document.getElementById('root');
+const root = createRoot(container);
+root.render(<Toggle />);
+```
+
+- Worked on my portfolio again. Setting a goal now to be done with it by Tuesday, October 15.
+  - 10/10 timelapse of journey
+  - 10/11 community involvement
+  - 10/12 tech stack, socials / where to find or contact me, glimpse of projects (shown as cards)
+  - 10/13 blog
+  - 10/14 blog
+
+---
+
 <!---
 
 ### Day 1: October 9, 2024 - Monday
 
 #### Todays's Progress
 
-✅ Daily Codewars <br>
-✅ Daily CSSBattle <br>
+✅ ANKI <br>
+✅ Huntober <br>
 
 #### Thoughts
 
