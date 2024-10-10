@@ -639,6 +639,7 @@ function getRealFloor(n) {
 - Codewars was a very easy if/else statement
 - CSSBattle TIL how to create a polygon using clip path!!! Not perfect but I'm happy I learned something new :)
 <img width="1515" alt="Screenshot 2024-10-02 at 1 56 14 PM" src="https://github.com/user-attachments/assets/813fcc6d-e1ed-4fe8-bdc4-68c05559dbe9">
+
 - Hacktoberfest
   - Got assigned an issue from this OS project, I love working on UI - https://github.com/devhub-ai/devhub/issues/34
 - Portfolio
@@ -690,6 +691,8 @@ function getRealFloor(n) {
 #### Thoughts
 
 - Call went so good! Catching up with Tony was amazing. Huntober was great as always. It's been a long day but fruitful day :)
+
+---
 
 ### Day 20: October 9, 2024 - Wednesday
 
