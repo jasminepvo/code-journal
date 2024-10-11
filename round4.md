@@ -751,6 +751,19 @@ root.render(<Toggle />);
 
 ---
 
+### Day 21: October 10, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ Posted on LinkedIn <br>
+✅ ANKI <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Good Huntober session on LinkedIn. Did some updates to my profile and posted! Posting has been a fear of mine so I'm overcoming it! I have always overthought "What should I post" or "What is appropriate?" - but I'm doing a new take on this. It's a platform with of all my professional connections, that doesn't mean it can't be fun or has to be shallow and surface level. I've been doing so much inner work on myself lately and finding my voice. I'm just going to be me from here on! 
+
+---
 <!---
 
 ### Day 1: October 9, 2024 - Monday
