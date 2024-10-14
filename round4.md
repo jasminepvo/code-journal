@@ -743,8 +743,8 @@ root.render(<Toggle />);
 ```
 
 - Worked on my portfolio again. Setting a goal now to be done with it by Tuesday, October 15.
-  - 10/10 timelapse of journey
-  - 10/11 community involvement
+  - 10/10 hero main
+  - 10/11 hero main
   - 10/12 tech stack, socials / where to find or contact me, glimpse of projects (shown as cards)
   - 10/13 blog
   - 10/14 blog
@@ -764,6 +764,46 @@ root.render(<Toggle />);
 - Good Huntober session on LinkedIn. Did some updates to my profile and posted! Posting has been a fear of mine so I'm overcoming it! I have always overthought "What should I post" or "What is appropriate?" - but I'm doing a new take on this. It's a platform with of all my professional connections, that doesn't mean it can't be fun or has to be shallow and surface level. I've been doing so much inner work on myself lately and finding my voice. I'm just going to be me from here on! 
 
 ---
+
+### Day 22: October 11, 2024 - Friday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Huntober <br>
+✅ Portfolio - about page <br>
+
+#### Thoughts
+
+- Pretty happy about where the cards are right now, definitely need to go back and update the content but everything else is good!
+- Power hour for huntober was fire as usual. Listening to others be in a spot I was once in and hearing their emotions around it, definitely makes me feel empathetic for them. Hope the words of advice I gave we're helpful. 
+
+---
+
+### Day 23: October 12, 2024 - Saturday
+
+#### Todays's Progress
+
+✅ Portfolio - about page <br>
+
+#### Thoughts
+
+- Decided to switch directions with what I originally wanted in the main hero, but I'm getting somewhere with design...
+
+---
+
+### Day 24: October 13, 2024 - Sunday
+
+#### Todays's Progress
+
+✅ Portfolio - about page <br>
+
+#### Thoughts
+
+- SO HAPPY WITH THE DESIGN NOW. Finally got full clarity with what I want. Wrote it up in the blog!
+
+---
+
 <!---
 
 ### Day 1: October 9, 2024 - Monday
@@ -776,8 +816,6 @@ root.render(<Toggle />);
 #### Thoughts
 
 -
-
-
 
 ---
 
