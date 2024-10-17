@@ -801,10 +801,78 @@ root.render(<Toggle />);
 #### Thoughts
 
 - SO HAPPY WITH THE DESIGN NOW. Finally got full clarity with what I want. Wrote it up in the blog!
+- Mockup the main hero in Excalidraw
+
+---
+
+### Day 25: October 14, 2024 - Monday
+
+#### Todays's Progress
+
+✅ Portfolio - about page <br>
+
+#### Thoughts
+
+- New design definitely = more work on the layout since everything is free standing 😅 BUT I'm getting so good at grid. I love grid. I used to only use flex but grid is truly OP.
+- Mockup the rest of the about page with the new design theme in Excalidraw. TBH I had no direction where I was going and I knew if I sat on Figma, it wouldn't go anywhere or would take 10x as long. As I developed, it allowed me to reframe what I truly wanted the user to see and experience, and reframe my design from boring to me :)
+- I'm really truly loving how everything is coming together. 
+<img width="630" alt="Screenshot 2024-10-15 at 1 41 19 PM" src="https://github.com/user-attachments/assets/56b54929-4c12-43ee-ab85-5e475de1d1e4">
+
+---
+
+### Day 26: October 15, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ Post on LinkedIn / X <br>
+✅ Call w Engineering Manger <br>
+✅ Mentee call - mock interview <br>
+✅ Portfolio - projects <br>
+✅ Huntober <br>
+✅ DSA practice <br>
+
+
+#### Thoughts
+
+- Finally updated the community w my current situation open for new opportunities, received some recruiter interest so yay :)
+- Call was ok, company sounds fantastic but I wish I had been more prepared going into it. It was with a friend and I made the horrible assumption it would be casual professional but it ended up being professional professional and I was a bit flusterered when speaking. I wasn't my typical confident self but we will see what happens. 
+- My mentee Yana did so freaking well in the technical mock interview. We did the leetcode question over unique elements and she nailed it. Communicated throughout, asked questions and solved it efficiently with understandings of time and space. She is killing it. So excited for her interview, I know she will do so well. Moments like this make me so happy :)
+- <img width="1865" alt="Screenshot 2024-10-15 at 3 45 57 PM" src="https://github.com/user-attachments/assets/0026ad32-d4a6-4b82-9b79-5cdaf33e1e92">
+- Huntober was DSA practice which I am taking more seriously now bc I want to improve and also bc I have an upcoming interview. Leon went over Gauss trick and I started watching freecodecamp dsa algo w javascript - which started off with Stacks
+
+
+---
+
+### Day 27: October 16, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ Women Tech Network Job Fair & Summit 2024 <br>
+✅ DSA practice with ChatGPT <br>
+
+#### Thoughts
+
+- Long long day of conference. So many good talks, talked to lots of recruiters and other women in tech and networked on LinkedIn.
+- Notes here: https://docs.google.com/document/d/1S06DF7jTuDpF2t50k6es5VH_jvNNqIBKKjmO2o1c2GI/edit?usp=sharing
+- So I started watching the youtube vid again on sets and queue but I was folding laundry at the time and it was difficulty for me to feel like I was fully grasping the concepts. I learn best by doing so I pulled out ChatGPT and used the voice feature to talk to the AI to review the dsa and have me repeat them back. Repetition helps a lot, especially verbal repeition and I would reply back in my own voice / examples. It ended up being super fun actually and AI even had quizzes for me to do which I also found fun. I used Gale? voice with a slight British accent which was very engaging to me and satisfying hearing her say "Yess you're right on the money" or "You've absolutely nailed it" in her accent.
+- No coding, I am feeling a bit beat up so I'm going to rest up so I can hit up leetcode tmr and finish up my portfolio!
 
 ---
 
 <!---
+
+### Day 28: October 17, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Huntober <br>
+✅ Leetcode <br>
+✅ Portfolio <br>
+
+#### Thoughts
+
+-
 
 ### Day 1: October 9, 2024 - Monday
 
