@@ -877,7 +877,15 @@ root.render(<Toggle />);
 - Time is the number of operations you do
 - Space is how much memory is being used
 - O(n) is generally the most efficient
-- I used to struggle so hard with learning dsa but I realize it wasn't me, it was the way it was taught. 
+- I used to struggle so hard with learning dsa but I realize it wasn't me, it was the way it was taught.
+- The Leetcode question I did was the two sum question. I learned hash map.
+  - initialize a new empty map
+  - loop through the length of the array
+  - initialize complement variable that serves as the target - arr index, (target:9, i:2 = complement is 7)
+  - check the map to see if the complement exists in the map
+  - if it exist, return the complement and the index in the array
+  - otherwise set the current num and its index in the map
+  - return empty arr if no solution is found
 
 ---
 
