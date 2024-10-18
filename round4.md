@@ -859,20 +859,31 @@ root.render(<Toggle />);
 
 ---
 
-<!---
-
 ### Day 28: October 17, 2024 - Thursday
 
 #### Todays's Progress
 
-✅ ANKI <br>
+✅ Recruiter call <br>
+✅ BANKI <br>
 ✅ Huntober <br>
 ✅ Leetcode <br>
-✅ Portfolio <br>
 
 #### Thoughts
 
--
+- Getting a lot more recruiters messaging me right now so been responding to those. Turned down a React dev role at BOA for 40/hr but that is way below what I'm looking for and I'm proud for turning it down. I feel so blessed and proud of myself for having a savings for the first time in my life so I can stress less about money and not be desperate for the first thing. I know my worth and what I deserve and I love that.
+- I am super excited for my interview next Wed so most of my time has been dedicated towards preparing for that. This will be the first whiteboarding technical interview I've ever had and I want to / will do well. Practicing dsa and did my first leetcode question today. My mindset has shifted a lot in the past year. I'm not longer saying the words "I can't do that", and reframing my mindset to "I can and I will bc there is nothing in this world I can not do if I put my mind to". <3 
+- Doing BANKI is so great this time around bc I feel like I have so much to talk about that I don't know where to begin or which to talk about, which is a great problem to have. I have gained so much experience in a short time and I'm so proud of myself!!!! :)
+- Huntober was great, I'm finally grasping Big O notation
+- Time is the number of operations you do
+- Space is how much memory is being used
+- O(n) is generally the most efficient
+- I used to struggle so hard with learning dsa but I realize it wasn't me, it was the way it was taught. 
+
+---
+
+<!---
+
+
 
 ### Day 1: October 9, 2024 - Monday
 
