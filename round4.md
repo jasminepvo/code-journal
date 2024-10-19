@@ -889,9 +889,20 @@ root.render(<Toggle />);
 
 ---
 
+### Day 29: October 18, 2024 - Saturday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ React Inteview Q's <br>
+
+#### Thoughts
+
+- Deep diving into React state management and hooks again for the interview since it will be building a component (depth in specialization)
+
+---
+
 <!---
-
-
 
 ### Day 1: October 9, 2024 - Monday
 
