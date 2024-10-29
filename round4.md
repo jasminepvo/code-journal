@@ -8,7 +8,7 @@
 
 #### Thoughts
 
-- Here we go again. Truth is, I prioritized my job over lifetime learning and consistency. As a new developer who just landed my first job in tech, which has been a dream of mine, I felt as if I owed my full time commitment and duty to performing as best as possible in my new role, since I was also making the most I've ever made in my life. Since then, i've learned tremendously and made an impact in that position which led me to fulfill even bigger dreams. I became a cofounder and frontend engineering lead, working with the most amazing programmer / friend currently who's doing big things at Google. I learned so much when it came to AI, backend, cloud, project mangement, marketing and all other responsiblities that come with a startup. I don't regret anything. Just looking forward to getting back to consistently coding/learning!
+- Here we go again. Truth is, I prioritized my job over lifetime learning and consistency. As a new developer who just landed my first job in tech, which has been a dream of mine, I felt as if I owed my full time commitment and duty to performing as best as possible in my new role, since I was also making the most I've ever made in my life. Since then, I've learned tremendously and made an impact in that position which led me to fulfill even bigger dreams. I became a cofounder and frontend engineering lead, working with the most amazing programmer / friend currently who's doing big things at Google. I learned so much when it came to AI, backend, cloud, project mangement, marketing and all other responsiblities that come with a startup. I don't regret anything. Just looking forward to getting back to consistently coding/learning/growing each day regardless of where I end up next!
 - Codewars was a good refresher on .replace() and regex
   <img width="1264" alt="Screenshot 2024-09-09 at 5 20 45 PM" src="https://github.com/user-attachments/assets/343f6079-97a6-414c-8708-95a00cba980d">
   <br><br>
@@ -889,7 +889,7 @@ root.render(<Toggle />);
 
 ---
 
-### Day 29: October 18, 2024 - Saturday
+### Day 29: October 18, 2024 - Friday
 
 #### Todays's Progress
 
@@ -902,13 +902,232 @@ root.render(<Toggle />);
 
 ---
 
+### Day 30: October 21, 2024 - Monday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Coffee Chat w Richard <br>
+✅ Study React <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Spent most of the day reviewing React concepts and practicing state management with the counter component
+- https://codesandbox.io/p/sandbox/loving-mclean-5gs52s
+  
+---
+
+### Day 31: October 22, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Coffee Chat w Deja <br>
+✅ Mock Interview w Krista <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Reviewed React concepts again, useEffect and loading/data/error state management
+- https://codesandbox.io/p/sandbox/vkygtt 
+
+---
+
+### Day 32: October 23, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ Interview <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Honestly was super nervous. There were no behavioral questions asked. These were the questions:
+  - What experience do you have with testing?
+  - How do you do unit test what are you testing for?
+  - How do you render a component?
+  - What are you looking for when you render a component?
+  - What do you do when you get a design, what is your process?
+
+- React coding assessment: Implement a C-shaped grid that behaves this way
+  - Square toggles between white / green
+  - If all squares are toggled green, automatically toggle white in the reverse order they were toggled green
+ 
+- At the end of the day, the interview went the way it should have. For my first live coding interview, I'm pretty proud of myself. I blanked on simple things but the feedback I got was I communicated well so I'll take it. It definitely taught me areas I still need to strengthen!
+- It also gave me an understanding of the company a bit more and I realized it wasn't for me. As it should be, the hiring process goes both ways. It's important to me to make sure I'll be happy there bc I'll be dedicating part of my life to it. I'm proud of myself for having this mindset now, much different to where I was 2 years ago.
+- Took the rest of the day to debrief
+
+---
+
+### Day 33: October 24, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ Mentee call <br>
+✅ Recruiter call <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Love meeting with my mentee, she shared her first live coding interview experience and it made me happy that the mock interview we did really helped her.
+<img width="843" alt="Screenshot 2024-10-24 at 12 38 57 PM" src="https://github.com/user-attachments/assets/a7d91387-c41a-47c5-b0e0-0d0ccb6b2607">
+
+- Recruiter call went AMAZING. I was honestly feeling beat down by the interview yesterday but talking to the recruiter gave me life again. This time, I could feel it in my heart, gut and soul that I REALLY want this opportunity. It aligns perfectly with me in terms of being able to make an impact, the culture, startup environment w financial stability, structure within the engineering team, products that I'd be working on would be exciting and geared towards small businesses which I'm passionating about helping coming from a family with a small business <3
+
+---
+
+### Day 34: October 25, 2024 - Friday
+
+#### Todays's Progress
+
+✅ Build new project <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- The interview question made me really want to go back and solve it because I know it's something I could. Nothing is out of my reach or scope of knowledge. It is the first time I've come across that situation and I just needed time to solve it is all so I did. I also wanted to share the component with others / keep it in memory for myself to review which led to me building a React component library. I'm just going to dump components that I build over time into here - https://react-jasminepvo.netlify.app/
+- I will eventually also go back and rebuild components that I've built over the years. Just a fun little coding day to destress :)
+
+---
+
+### Day 35: October 26, 2024 - Monday
+
+#### Todays's Progress
+
+✅ Come up with new study guide
+✅ Practice Leetcode #139 
+
+#### Thoughts
+
+- Word Break really threw me for a loop. It was wayyyy harder than I thought and took me forever. Quite literally forever. But I'm happy I took the time to go through and actually understand it, also helped me get a better understanding of time/space complexity.
+- Made me think of real world examples it would be used in which was cool:
+  - Spell Checking and Word Segmentation in Search Engines
+  - Text Autocomplete and Predictive Text
+  - Decoding Languages Without Spaces (e.g., Chinese, Japanese)
+  - Password cracking
+- Did more research on the company and used ChatGPT to help me come up with a study guide while I prep for this next interview, focusing on my weakness of DSA / leetcode
+
+---
+
+### Day 36: October 27, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 5 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Watched Neetcode yt vid to refresh on the top data structures (arrays, linked list, hash map, queue, binary tree, trie, heap, graphs)
+- - Started https://leetcode.com/studyplan/30-days-of-javascript/
+  - Solved all the closures (level easy) #2667, #2620, #2704, #2665
+  - ++count (pre-increment operator will count first then return the new, incremented value)
+  - count++ (post-increment operator will increment but return the original value before the increment
+  - syntax for creating methods inside a function
+    ```
+    const expect = (val) => {
+    return {
+        toBe: (otherVal) => (val === otherVal) ? true : ( () => { throw new Error("Not Equal"); })(), 
+        notToBe: (otherVal) => (val !== otherVal) ? true : ( () => { throw new Error("Equal"); })()
+       }
+    };
+    ```
+- huntober went over hash maps
+```
+function maxCharacter(str) {
+  //map + count + maxChar
+  let charMap = {},
+      count = 0,
+      maxChar = null
+  //map for chars in str + freq
+  for(const char of str) {
+    // if charMap[char] exists (if there is a key of that letter and it is therefore truthy) then increment it by one. else set it to one (if it is falsy)
+    charMap[char] = charMap[char] + 1 || 1
+  }
+  //loop and find most freq char
+  for(const char in charMap) {
+    if(charMap[char] > count) {
+      count = charMap[char]
+      maxChar = char
+    }
+  }
+
+  return maxChar
+}
+console.log(maxCharacter('Hello World!'), 'l')
+
+//Time: O(n)
+//Space: O(n)
+```
+For anyone who is confused, these two code snippets do the same thing:
+```
+if (charMap[char] == null) {
+  charMap[char] = 1;
+}
+else {
+  charMap[char] += 1;
+}
+```
+```
+charMap[char] = charMap[char] + 1 || 1
+```
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_accessors
+- https://www.freecodecamp.org/news/short-circuiting-in-javascript/
+---
+
+
 <!---
+
+### Day 37: October 28, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 38: October 28, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 39: October 28, 2024 - Friday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+-
+
+---
 
 ### Day 1: October 9, 2024 - Monday
 
 #### Todays's Progress
 
 ✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
 ✅ Huntober <br>
 
 #### Thoughts
