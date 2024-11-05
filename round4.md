@@ -991,7 +991,7 @@ root.render(<Toggle />);
 
 ---
 
-### Day 35: October 26, 2024 - Monday
+### Day 35: October 28, 2024 - Monday
 
 #### Todays's Progress
 
@@ -1010,7 +1010,7 @@ root.render(<Toggle />);
 
 ---
 
-### Day 36: October 27, 2024 - Tuesday
+### Day 36: October 29, 2024 - Tuesday
 
 #### Todays's Progress
 
@@ -1075,52 +1075,76 @@ charMap[char] = charMap[char] + 1 || 1
 ```
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_accessors
 - https://www.freecodecamp.org/news/short-circuiting-in-javascript/
+
+- That was A LOT. Spent the night playing top golf with friends to debrief and wind down letting my brain soak in everything
+
 ---
 
+### Day 37: October 30, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problem <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Super locked in. Spent the day going over the basic data structures and when you'd use them. Attempted task scheduler but had to look it up
+- huntober went over more hash maps
+
+---
+
+### Day 38: October 31, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 3 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Went over task scheduler again, cleaning up my notes and reviewing for repetition
+- Solved easy array problems, mainly practicing PREP
+- huntober went over a problem i recognized, lets goo! I knew exactly how to solve it, the most efficient way and how to talk through it :)
+
+---
+
+### Day 39: October 30, 2024 - Friday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Continued on solving easy arrays and recgonizing the patterns
+- Planned out my interview schedule w GG
+- Scheduled an interview for next week
+- Watched system design mock interviews over Spotify and Tik Tok
+
+---
+
+### Day 40: Nov 4, 2024 - Monday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 1 Leetcode problem <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- We are trucking along the dsa train and I'm actually starting to enjoy it. I can recognize the patterns more as I keep exposing myself to it. I remember when I would open Leetcode, stare at it for 10 min and close it. It's just a skill like working out and with continuous repetition and progressive overload, I can master it. There is quite literally nothing I can't do!
+- Reviewed task scheduler AGAIN and this time it went by a lot quicker. I could visualize the iterations this time. Still messed up syntax trying to solve though but it's okay
+- Huntober was fun, I really like hash maps. we went over two sum which I have solved already so I recognized it but Leon solved it a different way than I initially did so that was cool to see.
+
+---
 
 <!---
-
-### Day 37: October 28, 2024 - Wednesday
-
-#### Todays's Progress
-
-✅ ANKI <br>
-✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
-
-#### Thoughts
-
--
-
----
-
-### Day 38: October 28, 2024 - Thursday
-
-#### Todays's Progress
-
-✅ ANKI <br>
-✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
-
-#### Thoughts
-
--
-
----
-
-### Day 39: October 28, 2024 - Friday
-
-#### Todays's Progress
-
-✅ ANKI <br>
-✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
-
-#### Thoughts
-
--
-
----
 
 ### Day 1: October 9, 2024 - Monday
 
