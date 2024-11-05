@@ -1144,9 +1144,130 @@ charMap[char] = charMap[char] + 1 || 1
 
 ---
 
+### Day 41: November 5, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 1 Codewars 6kyu <br>
+✅ Practice 1 GreatFrontend problem <br>
+✅ Practice 1 Leetcode <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Anki review went well. 80 cards in 22.44min today
+- Started the HackerRank 1 month preperation kit. Solved plus minus. This seemed difficult initially bc of all the math in the description but it was pretty simple after walking through the PREP method. The only thing I had to look up was how to place the decimal at a fixed spot though using `.toFixed(6)`
+- I am using both Leetcode and HackerRank bc that's what the recruiter said to study
+- Read up on system design concepts and added to anki, also read through the interview process
+- Mock interview on CoderPad to simulate real time coding with the IDE I will be using, and practiced communication (did a react todo problem)
+- My initial approach with this Codewars 6kyu. Passed with Time: 824ms
+- <img width="1315" alt="Screenshot 2024-11-05 at 2 10 43 PM" src="https://github.com/user-attachments/assets/d405d523-825f-4cd6-959b-2f396689775b">
+- Here is the appraoch from ChatGPT. Passed with Time: 819ms
+- <img width="1511" alt="Screenshot 2024-11-05 at 2 14 21 PM" src="https://github.com/user-attachments/assets/51cf2a80-ac18-4634-8ba8-26e3c783a505">
+- Only a 5 millisecond difference. So I'm assuming either would work. 
+
+- Neat way to return thirty minute intervals 
+```
+function getThirtyMinuteIntervals() {
+    const intervals = [];
+    const totalMinutesInDay = 24 * 60; // 24 hours * 60 minutes = 1440 minutes
+
+    for (let minutes = 0; minutes <= totalMinutesInDay; minutes += 30) {
+        const hours = Math.floor(minutes / 60).toString().padStart(2, '0');
+        const mins = (minutes % 60).toString().padStart(2, '0');
+        intervals.push(`${hours}:${mins}`);
+    }
+
+    return intervals;
+}
+
+// Usage
+console.log(getThirtyMinuteIntervals());
+[
+    "00:00", "00:30", "01:00", "01:30", "02:00", "02:30", "03:00", "03:30",
+    "04:00", "04:30", "05:00", "05:30", "06:00", "06:30", "07:00", "07:30",
+    "08:00", "08:30", "09:00", "09:30", "10:00", "10:30", "11:00", "11:30",
+    "12:00", "12:30", "13:00", "13:30", "14:00", "14:30", "15:00", "15:30",
+    "16:00", "16:30", "17:00", "17:30", "18:00", "18:30", "19:00", "19:30",
+    "20:00", "20:30", "21:00", "21:30", "22:00", "22:30", "23:00", "23:30",
+    "24:00"
+]
+```
+- Solved another hash map problem, this was actually fun - https://leetcode.com/problems/first-letter-to-appear-twice/description/
+- Added algorithm pattern / leetcode templates to anki
+- huntober cancelled bc election day
+
+---
+
 <!---
 
-### Day 1: October 9, 2024 - Monday
+### Day 42: November 6, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Recruiter call with Leap Metrics <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+-
+
+### Day 43: November 7, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+-
+
+### Day 44: November 8, 2024 - Friday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+-
+
+### Day 45: November 9, 2024 - Saturday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 46: November 10, 2024 - Sunday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 47: November 11, 2024 - Monday
 
 #### Todays's Progress
 
