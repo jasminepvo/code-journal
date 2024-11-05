@@ -1151,7 +1151,7 @@ charMap[char] = charMap[char] + 1 || 1
 ✅ ANKI <br>
 ✅ Practice 1 Codewars 6kyu <br>
 ✅ Practice 1 GreatFrontend problem <br>
-✅ Practice 1 Leetcode <br>
+✅ Practice 2 Leetcode <br>
 ✅ Huntober <br>
 
 #### Thoughts
@@ -1197,6 +1197,7 @@ console.log(getThirtyMinuteIntervals());
 - Solved another hash map problem, this was actually fun - https://leetcode.com/problems/first-letter-to-appear-twice/description/
 - Added algorithm pattern / leetcode templates to anki
 - huntober cancelled bc election day
+- Another fun leetcode: https://leetcode.com/problems/check-if-the-sentence-is-pangram/submissions/1444295301/
 
 ---
 
