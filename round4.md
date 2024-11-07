@@ -1214,7 +1214,11 @@ console.log(getThirtyMinuteIntervals());
 
 #### Thoughts
 
--
+- Recruiter call went well! I thought it was going to be a screening but it actually turned into a behavioral interview. Nevertheless, I passed and am moving forward. 
+- Added a ton more system design concepts to ANKI
+- Huntober was power hour, good energy
+- Worked on leetcode group anagrams - https://leetcode.com/problems/group-anagrams/description/
+- Read up on coding patterns
 
 ### Day 43: November 7, 2024 - Thursday
 
