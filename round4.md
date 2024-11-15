@@ -1201,8 +1201,6 @@ console.log(getThirtyMinuteIntervals());
 
 ---
 
-<!---
-
 ### Day 42: November 6, 2024 - Wednesday
 
 #### Todays's Progress
@@ -1227,10 +1225,15 @@ console.log(getThirtyMinuteIntervals());
 ✅ ANKI <br>
 ✅ Practice 2 Leetcode problems <br>
 ✅ Huntober <br>
+✅ Dallas Software Developers meetup <br>
 
 #### Thoughts
 
--
+- Marcia gave the great idea to put leetcode problems into ANKI so I started doing that!
+- Working on 2 pointers now - roman to integer, valid palindrome
+- Huntober was great, went over fibonacci 
+- It was great seeing everyone again at the meetup and catching up with Danny and Noel :)
+- Met new faces - Morat, Jordan  
 
 ### Day 44: November 8, 2024 - Friday
 
@@ -1242,7 +1245,10 @@ console.log(getThirtyMinuteIntervals());
 
 #### Thoughts
 
--
+- LeetCode with Maye, we did closest number to zero
+- I reviewed Two Sum again
+- Found Leetcode coding patterns and starting to recognize them!
+- Huntober was fibonacci again, second to last session :( 
 
 ### Day 45: November 9, 2024 - Saturday
 
@@ -1250,11 +1256,42 @@ console.log(getThirtyMinuteIntervals());
 
 ✅ ANKI <br>
 ✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
 
 #### Thoughts
 
--
+- LeetCode with Maye - worked on #268 missing number
+- It was cool to see the different ways to solve it:
+- using a simple for loop
+- map
+```
+const n = nums.length;
+    const map = new Map();
+    
+    // Store each number in the map
+    for (let num of nums) {
+        map.set(num, true);
+    }
+
+    // Check for the missing number in the range [0, n]
+    for (let i = 0; i <= n; i++) {
+        if (!map.has(i)) {
+            return i; // Return the missing number
+        }
+    }
+```
+- approaching it from a sum/difference perspective
+```
+var missingNumber = function(nums) {
+    const n = nums.length;
+    // Calculate the expected sum of numbers from 0 to n
+    const expectedSum = (n * (n + 1)) / 2;
+    // Calculate the actual sum of elements in the array
+    const actualSum = nums.reduce((acc, num) => acc + num, 0);
+    // The missing number is the difference
+    return expectedSum - actualSum;
+};
+```
+- Reviewed system design
 
 ---
 
@@ -1264,13 +1301,79 @@ console.log(getThirtyMinuteIntervals());
 
 ✅ ANKI <br>
 ✅ Practice 2 Leetcode problems <br>
+
+#### Thoughts
+
+- Reviewed system design and ANKI
+- No leetcode today
+- Spent time helping my mom, eating her pho, getting the christmas tree and buying a new ball for Coda
+
+---
+
+### Day 47: November 11, 2024 - Monday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
 ✅ Huntober <br>
 
 #### Thoughts
 
--
+- Leetcode with Maye: merge strings alternatively, max water container
+- both two pointers again
+- Put up the christmas tree at night, she's so cute!
 
 ---
+
+### Day 48: November 12, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Leetcode with Maye: Intervals problem - [meeting schedules ii](https://neetcode.io/problems/meeting-schedule-ii)
+- Man that problem took us awhile but I have a great understanding on it now. We went over the different approaches using two pointers and greedy algorithm. I liked both but two pointers makes the most sense to me. Both are O(nlogn) time and O(n) space too!
+- Also practiced speed typing. Made me chuckle
+<img width="1095" alt="Screenshot 2024-11-14 at 11 55 56 AM" src="https://github.com/user-attachments/assets/4f022e35-35a9-4602-8248-ee8eeb43576c">
+
+---
+
+### Day 49: November 13, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- No Leetcode with Maye
+- Went over sliding window pattern
+
+---
+
+### Day 50: November 14, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+✅ Huntober <br>
+
+#### Thoughts
+
+- Leetcode with Maye: meeting rooms
+- went back over merge strings alternatively
+
+---
+
+<!---
 
 ### Day 47: November 11, 2024 - Monday
 
@@ -1285,5 +1388,4 @@ console.log(getThirtyMinuteIntervals());
 -
 
 ---
-
 --->
