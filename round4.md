@@ -1218,6 +1218,8 @@ console.log(getThirtyMinuteIntervals());
 - Worked on leetcode group anagrams - https://leetcode.com/problems/group-anagrams/description/
 - Read up on coding patterns
 
+---
+
 ### Day 43: November 7, 2024 - Thursday
 
 #### Todays's Progress
@@ -1235,6 +1237,8 @@ console.log(getThirtyMinuteIntervals());
 - It was great seeing everyone again at the meetup and catching up with Danny and Noel :)
 - Met new faces - Morat, Jordan  
 
+---
+
 ### Day 44: November 8, 2024 - Friday
 
 #### Todays's Progress
@@ -1249,6 +1253,8 @@ console.log(getThirtyMinuteIntervals());
 - I reviewed Two Sum again
 - Found Leetcode coding patterns and starting to recognize them!
 - Huntober was fibonacci again, second to last session :( 
+
+---
 
 ### Day 45: November 9, 2024 - Saturday
 
@@ -1316,7 +1322,6 @@ var missingNumber = function(nums) {
 
 ✅ ANKI <br>
 ✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
 
 #### Thoughts
 
@@ -1332,7 +1337,6 @@ var missingNumber = function(nums) {
 
 ✅ ANKI <br>
 ✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
 
 #### Thoughts
 
@@ -1349,7 +1353,6 @@ var missingNumber = function(nums) {
 
 ✅ ANKI <br>
 ✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
 
 #### Thoughts
 
@@ -1364,7 +1367,6 @@ var missingNumber = function(nums) {
 
 ✅ ANKI <br>
 ✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
 
 #### Thoughts
 
@@ -1373,15 +1375,191 @@ var missingNumber = function(nums) {
 
 ---
 
-<!---
-
-### Day 47: November 11, 2024 - Monday
+### Day 51: November 15, 2024 - Friday
 
 #### Todays's Progress
 
 ✅ ANKI <br>
 ✅ Practice 2 Leetcode problems <br>
-✅ Huntober <br>
+
+
+#### Thoughts
+
+- Leetcode with Maye: nonoverlapping intervals
+- best time to buy and sell stock
+
+---
+
+### Day 52: November 16, 2024 - Saturday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+
+#### Thoughts
+
+- Leetcode with Maye: nonoverlapping intervals
+
+---
+
+### Day 53: November 17, 2024 - Sunday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice 2 Leetcode problems <br>
+
+#### Thoughts
+
+- insert interval and valid parenthesis
+
+---
+
+### Day 54: November 18, 2024 - Monday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice Leetcode <br>
+
+#### Thoughts
+
+- Leetcode with Maye: insert interval
+
+---
+
+### Day 55: November 19, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice Leetcode <br>
+
+#### Thoughts
+
+- Leetcode with Maye: mock interview over group anagrams
+
+---
+
+### Day 56: November 20, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice Leetcode <br>
+
+#### Thoughts
+
+- Leetcode with Maye: mock interview over merge intervals
+
+---
+
+### Day 57: November 21, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ INTERVIEW DAY <br>
+
+#### Thoughts
+
+- WOW I KILLED IT! The interview ended up being very fun. It was related to intervals which is what I've been studying!!! My interviewer was very cool, loved my approach. Solved for the first day of the week but then the second day of the week was giving the wrong output which we were both trying to debug for 5 min. He had to end it bc we went 15 min over time haha! We were both very into it and it really did feel fun. I realized later it was due to having only ">" instead of ">=" 😆
+- Went out for lunch after to celebrate all the hard work and got an email less than an hour later notifiying me that I'm moving forward to the next round!!!
+- Luck is preparation meetings opportunity :) 
+
+---
+
+### Day 58: November 22, 2024 - Friday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Leetcode with Maye <br>
+✅ Mentee call <br>
+✅ 100Devs Huddle <br>
+
+#### Thoughts
+
+- Spent time going over my interview with Maye
+- Caught up with my mentee, happy to hear from her and catch up
+- 100devs huddle was a good power hour
+
+---
+
+### Day 59: November 23, 2024 - Saturday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+
+#### Thoughts
+
+- Honestly crashed after the interview and all the explaining the day after. Took today to chill and take it easy. Had friendsgiving dinner to cook for!
+- https://www.youtube.com/watch?v=i53Gi_K3o7I&t=199s
+
+---
+
+### Day 60: November 24, 2024 - Sunday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ System Design <br>
+
+#### Thoughts
+
+- Watched some youtube videos on system design and going over the resources given
+- https://interviewing.io/guides/system-design-interview
+
+---
+
+### Day 61: November 25, 2024 - Monday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Leetcode with Maye <br>
+✅ System Design <br>
+
+#### Thoughts
+
+- Leetcode: easy - return # of unique Element that exists once
+- Looked over more interviews. Scheduled availability for upcoming interviews
+- Practiced on FigJam
+- https://github.com/donnemartin/system-design-primer
+
+---
+
+### Day 62: November 26, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ Practice System Design <br>
+
+#### Thoughts
+
+- Mock interview with Maye: ahhh I didn't do great. I got through the radio framework but not efficiently and didn't realize most of the time should be spent on optimization. Definitely need to improve on this area 
+- Requirements - 9 min
+- Architecture / High Level Overview - 12 min
+- Data Model - 6 min
+- Interfacees - 12 min
+- Optimization - 24 min
+- https://www.greatfrontend.com/system-design/framework
+- https://www.youtube.com/watch?v=5vyKhm2NTfw
+
+
+---
+
+<!---
+
+### Day 63: November 11, 2024 - Monday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅  <br>
+✅  <br>
 
 #### Thoughts
 
