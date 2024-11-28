@@ -1548,6 +1548,22 @@ var missingNumber = function(nums) {
 - https://www.greatfrontend.com/system-design/framework
 - https://www.youtube.com/watch?v=5vyKhm2NTfw
 
+---
+
+### Day 63: November 27, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ Mock Interview <br>
+✅ Mentee Call <br>
+✅ Mock Interview <br>
+✅ Recruiter Prep <br>
+
+#### Thoughts
+
+- Ngl, I am feeling OVERWHELMED! AH! I know I need to just breathe, study, practice and repeat. System designs is kicking my butt. I designed the frontend architecture for FR but when it comes to timeboxing everything in 60 min + data model + api AND talking about optimization.. that's where it starts to stress me out. My mock interviewer gave me great advice to record myself and listen to gaps of silence etc to be as efficient as possible. Just going to take reps, like building muscle. I GOT THIS though! I am capable of anything and this being so hard of a challenge will only make the offer more rewarding :)
+- ALSO my recruiter is amazing. She took 45 minutes out of her day to prep me for these interviews with so much detail so there is no way I'm going to let her (or my referral) down.
+
 
 ---
 
