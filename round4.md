@@ -1564,12 +1564,153 @@ var missingNumber = function(nums) {
 - Ngl, I am feeling OVERWHELMED! AH! I know I need to just breathe, study, practice and repeat. System designs is kicking my butt. I designed the frontend architecture for FR but when it comes to timeboxing everything in 60 min + data model + api AND talking about optimization.. that's where it starts to stress me out. My mock interviewer gave me great advice to record myself and listen to gaps of silence etc to be as efficient as possible. Just going to take reps, like building muscle. I GOT THIS though! I am capable of anything and this being so hard of a challenge will only make the offer more rewarding :)
 - ALSO my recruiter is amazing. She took 45 minutes out of her day to prep me for these interviews with so much detail so there is no way I'm going to let her (or my referral) down.
 
+---
+
+### Day 64: November 28, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅ System Design Prep <br>
+
+#### Thoughts
+
+- FCC Crash course was good for a high level overview and better understanding of best API practices, learning more about performance. Also thinking through frameworks and my decision behind them. Always make sure I explain what to design and why. Wrote all the notes in my iPad!
+- https://interviewing.io/guides/system-design-interview Tips
+  - Always question the parameters of the service - what type of users does it serve, what type of traffic can it expect, what limits will it have?
+  - Mid level roles expect you to take moments of pause, let the interviewer guide
+  - Sr level roles expect you not to have silence, you should be leading the interview
+  - Don’t say things because you think you’re supposed to say them. This often occurs when candidates name specific brands of technologies (e.g., “Kafka” or “Cassandra”). I’m going to use a NoSQL db because of [insert brief rationale].
+  - Make decisions. DO SAY THIS - "We could use this type of DB, or this other, or that other, and these are some pros and cons… And based on all these tradeoffs, I’ll use THAT type of DB."
+  - Whatever decision you make, explain why. In a system design interview, why is more important than what. For anything you say, be prepared to explain why.
+  - "I don't know, I'm definitely going to look that up right after this interview, but if I had to give my best guess I'd say... [x] and here is why [explanation/thought process]
+  - <img width="972" alt="Screenshot 2024-11-28 at 9 44 55 PM" src="https://github.com/user-attachments/assets/44fd2715-1bbd-4086-99c7-46163d698db8">
+  - Acknowledge and affirm your interviewer. Start with “sure,” “OK,” or “yes,” so they are open to what you’re saying. This results in them being less likely to push back against your pushback.
+  - The best language to demonstrate collaboration is “We” or “Let’s.” For example: “We could take out the cache. However, if we did that one drawback would be [insert technical reasoning here]…”
+  - When we say “handwave stuff,” this means that you can say, “I’m going to skip going into [detailed thing] for now, but if we want, we can come back to it later.”
+  - Be conscious of warm vs cold interview styles
+  - Check in at major milestones (e.g., once you’re done taking requirements, or after you’re done with the high-level design)
+  - <img width="1177" alt="Screenshot 2024-11-28 at 9 59 15 PM" src="https://github.com/user-attachments/assets/c399587e-0f34-431d-b7c9-05997dd8050e">
+  - SQL is preferred if it is more important that customers using your service always see up-to-date information, even if sometimes there is a slight delay.
+  - Put simply, SQL databases are slower for writing than NoSQL databases due to the way data is stored. In contrast to this, NoSQL databases typically have slower reads
+  - ![image](https://github.com/user-attachments/assets/902c0ed3-a60d-4334-a933-d76b019fbd9c)
+
+
+- Reviewed more on booking systems https://www.greatfrontend.com/questions/system-design/travel-booking-airbnb
+- Happy Thanksgiving :)
 
 ---
 
 <!---
 
-### Day 63: November 11, 2024 - Monday
+### Day 65: November 29, 2024 - Friday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅  <br>
+✅  <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 66: November 30, 2024 - Saturday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅  <br>
+✅  <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 67: December 1, 2024 - Sunday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅  <br>
+✅  <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 68: December 2, 2024 - Monday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅  <br>
+✅  <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 69: December 3, 2024 - Tuesday
+
+#### Todays's Progress
+
+✅ ANKI <br>
+✅  <br>
+✅  <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 70: December 4, 2024 - Wednesday
+
+#### Todays's Progress
+
+✅ Mentee Call <br>
+✅  <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 71: December 5, 2024 - Thursday
+
+#### Todays's Progress
+
+✅ Commit Your Code Conference <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 72: December 6, 2024 - Friday
+
+#### Todays's Progress
+
+✅ Commit Your Code Conference <br>
+
+#### Thoughts
+
+-
+
+---
+
+### Day 73: December 7, 2024 - Saturday
 
 #### Todays's Progress
 
