@@ -1627,22 +1627,31 @@ var missingNumber = function(nums) {
 
 ---
 
-<!---
-
 ### Day 66: November 30, 2024 - Saturday
 
 #### Todays's Progress
 
-✅ ANKI <br>
-✅  <br>
-✅  <br>
+✅ BANKI <br>
+✅ Review System Design <br>
+✅ Practice figjam <br>
 
 #### Thoughts
 
--
+- Great resource, especially on API Design: https://frontendlead.com/system-design/frontend-system-design-interview-guide
+- Another great resource for system design: https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
+- https://frontendmastery.com/posts/frontend-system-design-interview-guide/: <img width="733" alt="Screenshot 2024-11-30 at 12 06 39 PM" src="https://github.com/user-attachments/assets/829e9284-2807-4867-ae7a-1dfa47a2e708">
+- mindmap: https://www.youtube.com/watch?v=JhcW0fuR_ig 
+- <img width="1181" alt="Screenshot 2024-11-30 at 2 32 39 PM" src="https://github.com/user-attachments/assets/5f1a8b37-a6ad-4104-b15c-12df9ecfe301">
+- <img width="712" alt="Screenshot 2024-11-30 at 2 38 26 PM" src="https://github.com/user-attachments/assets/0ad987f0-287b-4e2e-825e-19269b0879e1">
+- Pretty cool resource for questions - https://www.techprep.app/full-stack
+- So far there is a lot of "fullstack/backend" system design interviews on youtube, but I'm not really seeing any good frontend ones. There's a lot of content out there (greatfrontend, frontend lead) but I would love to see a video walkthrough to gain a better understanding on time management. [frontend-engineer](https://www.youtube.com/watch?v=LEaiGjffLEs) on youtube does frontend content but the diagrams etc are already pre-done for the video. I feel like if you were to start going into the level of detail on UI he does, that would take up a big chunk of time so it's not a true mock interview. Makes me think of making a video! 
+- Also maybe this is just a personal opinion, but being someone who loves frontend aka visualization, it's interesting that I'm not seeing this. ALL the vids I'm seeing go from functional requirements right into api calls/data modeling/architecting. I have yet to see an approach from a user perspective like it's talked about in [frontendmastery](https://frontendmastery.com/posts/frontend-system-design-interview-guide/). When I think about designing fantastic realms, we started off with user stories which helped design a high level overview of the core features for mvp. This is how my brain understands things - going from a top down level. The vids I've been seeing jump straight to API's and data models which probably makes sense for a backend person bc that's how they see things - in data, but I see components, and think how users interact with them, THEN think about the data layer.
+- I will say I did pick up some cool tidbits on how to better use figjam though! Like mindmapping the functional reqs, breaking each feature/ui into its own section
+- Just food for thought. Going to record myself and see how it goes :) 
 
 ---
 
+<!---
 ### Day 67: December 1, 2024 - Sunday
 
 #### Todays's Progress
