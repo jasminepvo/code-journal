@@ -1596,6 +1596,7 @@ var missingNumber = function(nums) {
   - ![image](https://github.com/user-attachments/assets/902c0ed3-a60d-4334-a933-d76b019fbd9c)
 
 
+
 - Reviewed more on booking systems https://www.greatfrontend.com/questions/system-design/travel-booking-airbnb
 - Happy Thanksgiving :)
 
@@ -1613,7 +1614,16 @@ var missingNumber = function(nums) {
 - Reviewed another high level system design for frontend video, very good
 - Reviewed basic concepts
 - Praticed a few booking systems on figjam
-- Prepped STAR format answers for experiences 
+- Prepped STAR format answers for experiences
+- Pt 3 of interviewing.io
+  - <img width="730" alt="Screenshot 2024-11-29 at 8 28 23 PM" src="https://github.com/user-attachments/assets/ab2c2171-c3d4-4a32-bc3b-45b4cbb059be">
+  - <img width="730" alt="Screenshot 2024-11-29 at 8 30 16 PM" src="https://github.com/user-attachments/assets/02776dd0-7cad-4a61-ae0e-2ed57181bfe2">
+  - <img width="730" alt="Screenshot 2024-11-29 at 8 30 44 PM" src="https://github.com/user-attachments/assets/c5fedda0-5933-464b-b45f-90c7d73db1ee">
+  - <img width="1030" alt="Screenshot 2024-11-29 at 8 50 01 PM" src="https://github.com/user-attachments/assets/2208fec7-1547-4cde-b76d-ff6e28b144be">
+  - <img width="816" alt="Screenshot 2024-11-29 at 9 16 47 PM" src="https://github.com/user-attachments/assets/2d047f1e-1f55-42c5-af45-e530a705731f">
+  - Wow this is a great explanation of polling / websockets <img width="816" alt="Screenshot 2024-11-29 at 9 20 19 PM" src="https://github.com/user-attachments/assets/d2b8de3a-5de5-4267-8c87-7535df74ce26"><img width="816" alt="Screenshot 2024-11-29 at 9 20 57 PM" src="https://github.com/user-attachments/assets/8f2fc2e5-14e4-4326-8701-c6edff0d3a65">
+
+  - Great article, will have to re-read over some parts bc they just flew over my head but love the resources at the end
 
 ---
 
