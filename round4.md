@@ -1601,21 +1601,23 @@ var missingNumber = function(nums) {
 
 ---
 
-<!---
-
 ### Day 65: November 29, 2024 - Friday
 
 #### Todays's Progress
 
-✅ ANKI <br>
-✅  <br>
-✅  <br>
+✅ BANKI <br>
+✅ Practice figjam <br>
 
 #### Thoughts
 
--
+- Reviewed another high level system design for frontend video, very good
+- Reviewed basic concepts
+- Praticed a few booking systems on figjam
+- Prepped STAR format answers for experiences 
 
 ---
+
+<!---
 
 ### Day 66: November 30, 2024 - Saturday
 
