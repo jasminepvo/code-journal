@@ -1651,18 +1651,17 @@ var missingNumber = function(nums) {
 
 ---
 
-<!---
 ### Day 67: December 1, 2024 - Sunday
 
 #### Todays's Progress
 
-✅ ANKI <br>
-✅  <br>
-✅  <br>
+✅ BANKI <br>
+✅ Mock Interview <br>
 
 #### Thoughts
 
--
+- Mock interview over yoga studio booking system, went well then spent time perfecting it and going over all my talking points
+- Practice practice practice BANKI questions
 
 ---
 
@@ -1671,14 +1670,16 @@ var missingNumber = function(nums) {
 #### Todays's Progress
 
 ✅ ANKI <br>
-✅  <br>
-✅  <br>
+✅ Interview 1 <br>
+✅ Interview 2 <br>
 
 #### Thoughts
 
--
+- Whew it's been a long day. Good interviews though, feeling good about both. I can't believe how proud I am with myself. 0 experience of leetcode to solving a leetcode medium coding assessment to my first system design interview. LOTS OF PREP and it was worth it. I know I tried my best so I can only hope for the best. And still kill it tomorrow! 
 
 ---
+
+<!---
 
 ### Day 69: December 3, 2024 - Tuesday
 
